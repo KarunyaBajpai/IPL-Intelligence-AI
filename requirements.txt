@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow
+joblib
+rapidfuzz
+python-dotenv
+langchain
+langchain-groq
+langgraph
+chromadb
